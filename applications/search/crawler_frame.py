@@ -28,7 +28,7 @@ class CrawlerFrame(IApplication):
     def __init__(self, frame):
         self.starttime = time()
         # Set app_id <student_id1>_<student_id2>...
-        self.app_id = "20175396_JeremyID_SreejaID"
+        self.app_id = "20175396_27005248_SreejaID"
         # Set user agent string to IR W17 UnderGrad <student_id1>, <student_id2> ...
         # If Graduate studetn, change the UnderGrad part to Grad.
         self.UserAgentString = "IR S17 UnderGrad 12345678, 23156523, 12343545"
