@@ -76,7 +76,7 @@ def process_url_group(group, useragentstr):
     save_count(successfull_urls)
     return extract_next_links(rawDatas), rawDatas
 
-#######################################################################################
+########################################################################################
 '''
 STUB FUNCTIONS TO BE FILLED OUT BY THE STUDENT.
 '''
